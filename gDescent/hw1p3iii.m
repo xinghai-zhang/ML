@@ -1,0 +1,4 @@
+
+result = findmin(3)
+
+
